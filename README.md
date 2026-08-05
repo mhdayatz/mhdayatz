@@ -270,7 +270,8 @@ Hi! I'm **Muhammad Hidayat** — an IT generalist with a dual identity. On one s
 <!-- ============================================================ -->
 ## ▸ Currently Working On
 
-- Building **[PROJECT-A]** — a full-stack [web app / dashboard / API] built with React + Laravel
+- Developing **dayattt-project** — my first project, terus dikembangkan ([repository](https://github.com/mhdayatz/dayattt-project))
+- Building **catatanpribadi** — a personal notes app written in TypeScript ([repository](https://github.com/mhdayatz/catatanpribadi))
 - Automating network operations — router config management & monitoring with bash/Python scripts, assisted by AI coding agents
 - [Tambahkan item lain di sini — section ini memang untuk kamu update manual]
 
@@ -306,42 +307,33 @@ Hi! I'm **Muhammad Hidayat** — an IT generalist with a dual identity. On one s
 <table style="border-collapse:separate;border-spacing:14px">
   <tr>
     <td style="border:1px solid rgba(110,130,170,.3);border-radius:14px;padding:16px 20px;width:50%;background:rgba(120,140,180,.05);vertical-align:top">
-      <a href="https://github.com/mhdayatz/project-a"><b>project-a</b></a><br/>
-      <sub>Full-stack [web app / dashboard] — tulis deskripsi singkat satu-dua kalimat di sini.</sub><br/><br/>
-      <a href="https://github.com/mhdayatz/project-a"><img src="https://img.shields.io/github/stars/mhdayatz/project-a?style=flat-square&label=stars&color=8B5CF6&logo=star&logoColor=8B5CF6" alt="Stars"/></a>
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&labelColor=0F172A" alt="React"/>
-      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&labelColor=0F172A" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&labelColor=0F172A" alt="Laravel"/><br/>
-      <sub><a href="URL_DEMO">Live demo</a> · <a href="https://github.com/mhdayatz/project-a">Repository</a></sub>
+      <a href="https://github.com/mhdayatz/dayattt-project"><b>dayattt-project</b></a><br/>
+      <sub>My first project — dimulai dari nol dan terus dikembangkan.</sub><br/><br/>
+      <a href="https://github.com/mhdayatz/dayattt-project"><img src="https://img.shields.io/github/stars/mhdayatz/dayattt-project?style=flat-square&label=stars&color=8B5CF6&logo=star&logoColor=8B5CF6" alt="Stars"/></a>
+      <img src="https://img.shields.io/badge/-First%20Project-8B5CF6?style=flat-square&labelColor=0F172A" alt="First Project"/><br/>
+      <sub><a href="https://github.com/mhdayatz/dayattt-project">Repository</a></sub>
     </td>
     <td style="border:1px solid rgba(110,130,170,.3);border-radius:14px;padding:16px 20px;width:50%;background:rgba(120,140,180,.05);vertical-align:top">
-      <a href="https://github.com/mhdayatz/project-b"><b>project-b</b></a><br/>
-      <sub>Network monitoring / automation dashboard — deskripsikan di sini.</sub><br/><br/>
-      <a href="https://github.com/mhdayatz/project-b"><img src="https://img.shields.io/github/stars/mhdayatz/project-b?style=flat-square&label=stars&color=8B5CF6&logo=star&logoColor=8B5CF6" alt="Stars"/></a>
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&labelColor=0F172A" alt="Python"/>
-      <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&labelColor=0F172A" alt="FastAPI"/>
-      <img src="https://img.shields.io/badge/-MikroTik%20API-0EA5E9?style=flat-square&labelColor=0F172A" alt="MikroTik API"/><br/>
-      <sub><a href="URL_DEMO">Live demo</a> · <a href="https://github.com/mhdayatz/project-b">Repository</a></sub>
+      <a href="https://github.com/mhdayatz/catatanpribadi"><b>catatanpribadi</b></a><br/>
+      <sub>Personal notes app — written in TypeScript.</sub><br/><br/>
+      <a href="https://github.com/mhdayatz/catatanpribadi"><img src="https://img.shields.io/github/stars/mhdayatz/catatanpribadi?style=flat-square&label=stars&color=8B5CF6&logo=star&logoColor=8B5CF6" alt="Stars"/></a>
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&labelColor=0F172A" alt="TypeScript"/><br/>
+      <sub><a href="https://github.com/mhdayatz/catatanpribadi">Repository</a></sub>
     </td>
   </tr>
   <tr>
     <td style="border:1px solid rgba(110,130,170,.3);border-radius:14px;padding:16px 20px;width:50%;background:rgba(120,140,180,.05);vertical-align:top">
-      <a href="https://github.com/mhdayatz/project-c"><b>project-c</b></a><br/>
-      <sub>Rest API / backend service — deskripsikan di sini.</sub><br/><br/>
-      <a href="https://github.com/mhdayatz/project-c"><img src="https://img.shields.io/github/stars/mhdayatz/project-c?style=flat-square&label=stars&color=8B5CF6&logo=star&logoColor=8B5CF6" alt="Stars"/></a>
-      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&labelColor=0F172A" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&labelColor=0F172A" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&labelColor=0F172A" alt="Docker"/><br/>
-      <sub><a href="URL_DEMO">Live demo</a> · <a href="https://github.com/mhdayatz/project-c">Repository</a></sub>
+      <a href="https://github.com/mhdayatz/tes"><b>tes</b></a><br/>
+      <sub>Small experiment / test repository.</sub><br/><br/>
+      <a href="https://github.com/mhdayatz/tes"><img src="https://img.shields.io/github/stars/mhdayatz/tes?style=flat-square&label=stars&color=8B5CF6&logo=star&logoColor=8B5CF6" alt="Stars"/></a>
+      <img src="https://img.shields.io/badge/-Experiment-10B981?style=flat-square&labelColor=0F172A" alt="Experiment"/><br/>
+      <sub><a href="https://github.com/mhdayatz/tes">Repository</a></sub>
     </td>
     <td style="border:1px solid rgba(110,130,170,.3);border-radius:14px;padding:16px 20px;width:50%;background:rgba(120,140,180,.05);vertical-align:top">
-      <a href="https://github.com/mhdayatz/project-d"><b>project-d</b></a><br/>
-      <sub>Tools / library open-source — deskripsikan di sini.</sub><br/><br/>
-      <a href="https://github.com/mhdayatz/project-d"><img src="https://img.shields.io/github/stars/mhdayatz/project-d?style=flat-square&label=stars&color=8B5CF6&logo=star&logoColor=8B5CF6" alt="Stars"/></a>
-      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&labelColor=0F172A" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&labelColor=0F172A" alt="React"/>
-      <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&labelColor=0F172A" alt="Tailwind"/><br/>
-      <sub><a href="URL_DEMO">Live demo</a> · <a href="https://github.com/mhdayatz/project-d">Repository</a></sub>
+      <a href="https://github.com/mhdayatz?tab=repositories"><b>And many more…</b></a><br/>
+      <sub>Explore all my public repositories on GitHub.</sub><br/><br/>
+      <a href="https://github.com/mhdayatz?tab=repositories"><img src="https://img.shields.io/badge/-View%20All%20Repos-0EA5E9?style=flat-square&labelColor=0F172A" alt="View all repos"/></a><br/>
+      <sub><a href="https://github.com/mhdayatz?tab=repositories">All repositories</a></sub>
     </td>
   </tr>
 </table>
@@ -430,16 +422,18 @@ Hi! I'm **Muhammad Hidayat** — an IT generalist with a dual identity. On one s
 </svg>
 
 <!-- ============================================================ -->
-<!-- 8. CERTIFICATIONS                                            -->
-<!--    GANTI sesuai sertifikat yang kamu punya. Kalau belum punya -->
-<!--    sama sekali, HAPUS seluruh section ini.                    -->
+<!-- 8. CERTIFICATIONS (dinonaktifkan sementara)                   -->
+<!--    Aktifkan saat kamu punya sertifikat asli: hapus dua baris  -->
+<!--    komentar (pembuka & penutup) di bawah, lalu isi tabelnya.  -->
 <!-- ============================================================ -->
+<!--
 ## ▸ Certifications
 
 | Certification | Issuer | Year |
 | :--- | :--- | :--- |
 | **MTCNA** — MikroTik Certified Network Associate · [Verify](URL_SERTIFIKAT) | MikroTik | 2025 |
 | **CCNA** — Cisco Certified Network Associate | Cisco | _in progress_ |
+-->
 
 <!-- ============================================================ -->
 <!-- 9. CONNECT WITH ME                                          -->
