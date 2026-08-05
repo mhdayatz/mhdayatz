@@ -402,7 +402,8 @@ Hi! I'm **Muhammad Hidayat** — an IT generalist with a dual identity. On one s
 
   <!-- ============ SNAKE (dinonaktifkan sementara) ============
        Aktifkan setelah setup GitHub Action "snake.yml" (panduan di
-       komentar paling bawah). Caranya: hapus tanda <!-- dan --> ini. -->
+       komentar paling bawah). Caranya: hapus dua baris komentar yang
+       membungkus blok picture ini (buka & tutup komentar HTML). -->
   <!--
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhdayatz/mhdayatz/output/snake-dark.svg"/>
